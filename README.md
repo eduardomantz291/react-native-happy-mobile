@@ -5,7 +5,7 @@
 ##
 
 <p align="center">
-    <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/  react-native-happy-mobile">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/  react-native-happy-mobile">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/
   react-native-happy-mobile">
@@ -31,7 +31,7 @@
 </p>
 
 <div align="center">
-  <img alt="Happy" src=".github/happymobile.png" width="80%">
+  <img alt="Happy" src=".github/happymobile.png" width="60%">
 </div>
 
 ## :bulb: About Project
