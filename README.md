@@ -29,7 +29,7 @@
 </p>
 
 <div align="center">
-  <img alt="Happy" src=".github/happymobile.png" width="35%">
+  <img alt="Happy" src=".github/happymobile.png" width="25%">
 </div>
 
 ## :bulb: About Project
