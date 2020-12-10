@@ -5,8 +5,7 @@
 ##
 
 <p align="center">
-    <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/
-    react-native-happy-mobile">
+    <img alt="Github language count" src="https://img.shields.io/github/languages/count/eduardomantz291/  react-native-happy-mobile">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/top/eduardomantz291/
   react-native-happy-mobile">
@@ -32,9 +31,7 @@
 </p>
 
 <div align="center">
-  <h4 align="center">Read on Languages</h4>
-  <a href="https://github.com/eduardomantz291/react-native-happy-mobile/blob/master/README-PT-BR.md">🇧🇷
-  </a>
+  <img alt="Happy" src=".github/happymobile.png" width="80%">
 </div>
 
 ## :bulb: About Project
