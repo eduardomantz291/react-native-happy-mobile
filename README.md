@@ -31,7 +31,7 @@
 </p>
 
 <div align="center">
-  <img alt="Happy" src=".github/happymobile.png" width="80%">
+  <img alt="Happy" src=".github/happymobile.png" width="90%">
 </div>
 
 ## :bulb: About Project
