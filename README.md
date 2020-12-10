@@ -25,12 +25,11 @@
     <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/eduardomantz291/react-native-happy-mobile/dev/typescript">
   </a>
 
-  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/
-react-native-happy-mobile">
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/eduardomantz291/react-native-happy-mobile">
 </p>
 
 <div align="center">
-  <img alt="Happy" src=".github/happymobile.png" width="20%">
+  <img alt="Happy" src=".github/happymobile.png" width="35%">
 </div>
 
 ## :bulb: About Project
